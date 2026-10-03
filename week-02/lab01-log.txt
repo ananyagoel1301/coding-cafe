@@ -1,0 +1,16 @@
+  183  pip list
+  184  pip install requests
+  185  pip list
+  186  deactivate
+  187  which python3
+  188  man ls
+  189  man man
+  190  cd cod
+  191  history
+  192  python3
+  193  cd ~/coding-cafe
+  194  ls week-02
+  195  history > week02/lab01-log.txt
+  196  cd ~/coding-cafe
+  197  history > week-02/lab01-log.txt
+  198  ls week-02
